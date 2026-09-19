@@ -1,0 +1,6 @@
+{
+  "name": "Workbridge AI",
+  "description": "Workforce-transition platform for freshers and professionals adapting to AI with India tech hub stats and 5-minute executive pitch deck PDF export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
